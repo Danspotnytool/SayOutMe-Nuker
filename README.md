@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://sayout.me/">SayOut.Me</a> nuker</h1>
 
-<p align="center">Node JS bot that nukes sayout.me links with messages</p>
+<p align="center">Node JS bot that nukes sayout.me links by sending loads of messages</p>
 
 <h2>How to use</h2>
 
